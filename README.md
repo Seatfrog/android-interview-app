@@ -11,7 +11,7 @@ We will update this app as part of a pair programming exercise as the first part
 
 ## Tasks
 
-We would like to update the APi to fetch from the network as it is currently returning a small hard coded subset of data. Given the time constraints we are also happy for the JSON to be loaded from the local copy if that is easier quicker (though would be interested in a discussion on how you would normally setup the network stack)
+We would like to update the APi to fetch from the network as it is currently returning a small hard coded subset of data. Given the time constraints we are also happy for the JSON to be loaded from the local copy if that is easier / quicker (though would be interested in a discussion on how you would normally setup the network stack)
 
 We would also like to update the model used to represent the railcards from a `String` to something which can contain the code, name and is popular flag. Using this we can update the UI to show all this information (we are not concerned about beautiful UI here, more about how we manage the data and get it to the screen than specific formatting)
 

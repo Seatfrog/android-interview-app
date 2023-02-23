@@ -23,3 +23,7 @@ We dont expect unit tests to be written in the short time we have (though if you
 ## Constraints
 
 This is a pairing exercise where we are interested in both your Android knowledge as well as your ability to communicate with other engineers. It is _not_ a memory test so feel free to google / look up docs etc as you would normally. 
+
+### Android Studio
+
+This project was setup on `Android Studio Chipmunk | 2021.2.1`. It is hopefully simple enough to run on whatever version you have available though

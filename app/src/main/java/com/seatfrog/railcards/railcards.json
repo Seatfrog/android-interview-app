@@ -1,0 +1,109 @@
+{
+  "railcards": [
+    {
+      "name": "16-17 Saver",
+      "code": "TSU",
+      "silverrailCode": "UK_YOUTH_16_17",
+      "isPopular": true,
+      "isInput": true
+    },
+    {
+      "name": "16-25 Railcard",
+      "code": "YNG",
+      "silverrailCode": "UK_YOUTH",
+      "isPopular": true,
+      "isInput": true
+    },
+    {
+      "name": "26-30 Railcard",
+      "code": "TST",
+      "silverrailCode": "UK_YOUNG_ADULT",
+      "isPopular": true,
+      "isInput": true
+    },
+    {
+      "name": "Annual Gold Card",
+      "code": "NGC",
+      "silverrailCode": "UK_ANNUAL_GOLD",
+      "isPopular": true,
+      "isInput": true
+    },
+    {
+      "name": "Disabled Child Railcard",
+      "code": "DIC",
+      "silverrailCode": "UK_CHILD_DISABILITY",
+      "isPopular": false,
+      "isInput": true
+    },
+    {
+      "name": "Disabled Persons Railcard",
+      "code": "DIS",
+      "silverrailCode": "UK_DISABILITY",
+      "isPopular": true,
+      "isInput": true
+    },
+    {
+      "name": "Family & Friends Railcard",
+      "code": "FAM",
+      "silverrailCode": "UK_FAMILY_FRIENDS",
+      "isPopular": true,
+      "isInput": true
+    },
+    {
+      "name": "GroupSave Discount",
+      "code": "GS3",
+      "silverrailCode": "UK_GROUPSAVE",
+      "isPopular": false,
+      "isInput": false
+    },
+    {
+      "name": "HM Forces Railcard",
+      "code": "HMF",
+      "silverrailCode": "UK_HM_ARMED_FORCES",
+      "isPopular": true,
+      "isInput": true
+    },
+    {
+      "name": "Jobcentre Plus Travel Discount Card",
+      "code": "JCP",
+      "silverrailCode": "UK_JOBCENTRE_PLUS",
+      "isPopular": true,
+      "isInput": true
+    },
+    {
+      "name": "Network Railcard",
+      "code": "NEW",
+      "silverrailCode": "UK_NETWORK",
+      "isPopular": true,
+      "isInput": true
+    },
+    {
+      "name": "Senior Railcard",
+      "code": "SRN",
+      "silverrailCode": "UK_SENIOR",
+      "isPopular": true,
+      "isInput": true
+    },
+    {
+      "name": "Two Together Railcard",
+      "code": "2TR",
+      "silverrailCode": "UK_TWO_TOGETHER",
+      "isPopular": true,
+      "isInput": true
+    },
+    {
+      "name": "Veterans Railcard",
+      "code": "VET",
+      "silverrailCode": "UK_VETERAN",
+      "isPopular": true,
+      "isInput": true
+    },
+    {
+      "name": "Young Scot National Entitlement Card",
+      "code": "SRY",
+      "silverrailCode": "UK_SCOTTISH_YOUTH",
+      "isPopular": false,
+      "isInput": true
+    }
+  ]
+}
